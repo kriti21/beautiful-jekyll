@@ -11,4 +11,4 @@ of Engineering & Technology, Panjab University](http://uiet.puchd.ac.in/).
 Through my blog, I will be sharing my experience in 
 Open Source and coding in general with the goal of 
 inspiring readers to get started with the incredible 
-world of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
+world of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).
