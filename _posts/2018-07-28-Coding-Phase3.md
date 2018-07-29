@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GSoC Coding Phase 3
+title: GSoC Coding Phase 3 - Begins
 tags: [Google Summer of Code, open-source, coala]
 ---
 
